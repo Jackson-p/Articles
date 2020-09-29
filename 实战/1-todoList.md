@@ -1,8 +1,6 @@
 ## todoList
 
-- **ng与异构体系**
-- 学习lerna和monorepo是啥
-- 如何开发一个完整的像devtools一样的Chrome插件
-- modal化的编程方法
+- 如何开发一个完整的像 devtools 一样的 Chrome 插件
+- modal 化的编程方法
 - LowCode
 - serverless
